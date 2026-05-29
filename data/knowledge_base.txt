@@ -1,0 +1,23 @@
+India is a country in South Asia. Its capital is New Delhi. New Delhi is the seat of the Government of India and is part of the National Capital Territory of Delhi.
+
+India is known for rich biodiversity and varied ecosystems including forests, grasslands, wetlands, deserts, mangroves, and mountain regions. Important wildlife habitats include Jim Corbett National Park, Kaziranga National Park, Gir National Park, Ranthambore National Park, and the Sundarbans.
+
+The Bengal tiger is one of the most iconic animals found in India. It lives in forests, grasslands, and mangrove habitats. The tiger is classified as Endangered.
+
+The Asiatic lion is found mainly in and around Gir Forest in Gujarat, India. It is classified as Endangered.
+
+The Indian elephant is found in forested regions of India and is classified as Endangered.
+
+The one-horned rhinoceros is found in grasslands and wetlands, especially in Kaziranga National Park. It is classified as Vulnerable.
+
+The fastest land animal is the cheetah. Cheetahs are built for speed and can reach very high speeds over short distances. Different cheetah subspecies include the Southeast African cheetah, Asiatic cheetah, Northeast African cheetah, Northwest African cheetah, and East African cheetah.
+
+The peregrine falcon is the fastest animal overall because of its diving speed.
+
+Python is a popular programming language known for readability. .NET developers often find it easy to learn because the code can be compact and expressive.
+
+Retrieval-Augmented Generation, or RAG, is a pattern where a system retrieves relevant document chunks from a vector database and passes them to a language model so answers are grounded in external knowledge.
+
+A conversational RAG system improves this by using conversation history. A history-aware retriever can rewrite a follow-up question into a standalone question before retrieval.
+
+A multi-user conversational RAG system stores separate conversation history for each session ID so that different users can talk to the same system without mixing up context.
